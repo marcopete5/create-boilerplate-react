@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/marcopete5/create-boilerplate-react#readme",
   "dependencies": {
+    "node-sass": "^4.9.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
   },
